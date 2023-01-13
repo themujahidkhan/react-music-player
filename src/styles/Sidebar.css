@@ -1,0 +1,19 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  background: #ddd555;
+  height: 100vh;
+  width: 30vw;
+}
+
+.playlist {
+  padding: 1rem;
+}
+
+.playlist-card {
+  display: flex;
+}
+
+.playlist-image img {
+  border-radius: 33%;
+}
